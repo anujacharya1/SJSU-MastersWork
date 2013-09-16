@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="centroid">
+      <IconStyle>
+        <color>
+          ff0000ff
+        </color>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <Point>
+        <coordinates>
+          78.4706,17.4376
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Srinath K.
+PRAKASH V.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            78.4706,17.4376
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Hyderabad Area, India
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -87.906844,43.04181
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Rebecca B.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -87.906844,43.04181
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Greater Milwaukee Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -117.765049,33.667101
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Darren d.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -117.765049,33.667101
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Orange County, California Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -112.075774,33.44826
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Rebecca C.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -112.075774,33.44826
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Phoenix, Arizona Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -78.791191,35.873772
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Priyanka J.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -78.791191,35.873772
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Raleigh-Durham, North Carolina Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -82.638764,27.77119
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Keith M.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -82.638764,27.77119
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Tampa/St. Petersburg, Florida Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -8.326615,53.430361
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Sharon B.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -8.326615,53.430361
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Ireland
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -117.161719,32.715695
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Shelley B.
+Kelly G.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -117.161719,32.715695
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Greater San Diego Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -81.656219,30.33147
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Michelle B.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -81.656219,30.33147
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Jacksonville, Florida Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -104.992259,39.74001
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Shelbi D.
+Amy H.
+Michael S.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -104.992259,39.74001
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Greater Denver Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -122.675629,45.511795
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Arthur A.
+Vince A.
+Nicole B.
+Kristin D.
+Heath G.
+Brian M.
+Zack P.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -122.675629,45.511795
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Portland, Oregon Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -122.329439,47.60356
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Michael A.
+Kate B.
+Colleen C.
+Nicholas M.
+Jordan S.
+Vernon S.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -122.329439,47.60356
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Greater Seattle Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          77.60482,12.97092
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Anish B.
+Sachin B.
+Madhuvanthi G.
+Syed M.
+Mahesh N.
+Anil P.
+Santhosh P.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            77.60482,12.97092
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Bengaluru Area, India
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -122.419644,37.777125
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Rashan A.
+Stephanie A.
+Sapna A.
+Srini A.
+Alexis A.
+Chris A.
+Samina A.
+Rimmi A.
+David A.
+Mike A.
+Marissa A.
+Kendra A.
+Anita A.
+Rakshit A.
+Raquel A.
+Kam A.
+Ashley B.
+Chelsea B.
+Arthur B.
+Pauline B.
+Matt B.
+Melissa B.
+Akalina B.
+Craig B.
+Smit B.
+Tristan B.
+Melissa B.
+Marisa B.
+Anand B.
+Jill B.
+Shaner B.
+Jignesh B.
+Caron B.
+Jeff B.
+Orlando B.
+Sarah B.
+Nina B.
+Megan B.
+Angela C.
+Kevin C.
+Lisa C.
+Danielle C.
+Katie C.
+Shawn C.
+Catherine C.
+Joe C.
+Madaline C.
+Gina C.
+Joshua C.
+Pamela C.
+Neha C.
+Jon C.
+Frances C.
+Carley C.
+Ekta C.
+Kevin C.
+Colleen C.
+Kimberly C.
+Chris C.
+Shawna C.
+Raelene C.
+Jan C.
+Oscar C.
+Andon C.
+Chanel C.
+Kristen D.
+Janelle D.
+Kinh D.
+Danielle D.
+Eric D.
+Trung D.
+Fatima D.
+Chinue D.
+Charlene D.
+Marianne D.
+Lizzette D.
+Marlon D.
+Loi D.
+Linell E.
+Jen E.
+Jerry F.
+Yvonne F.
+Frank F.
+Drew F.
+Morgan F.
+David F.
+Matt F.
+Paul G.
+Jeremy G.
+Angela G.
+Lorena G.
+Angela G.
+Derrick G.
+Shriram G.
+Brett G.
+Stanley G.
+Aaron G.
+Z. Esen G.
+Sunita G.
+Vidhya G.
+Elana G.
+Laura G.
+Steve G.
+Michael G.
+Tony G.
+Eleanor H.
+Dan H.
+Jillian H.
+Gaurav H.
+Salehah H.
+Leigh Ann H.
+Shea H.
+Ashley H.
+John H.
+Brett H.
+Nicholas H.
+Luong H.
+Steve H.
+Anna H.
+Doug H.
+Melissa H.
+Michael H.
+Claudine I.
+Carlos J.
+Preeti J.
+Bryan Jan J.
+Sunny J.
+Cornelia J.
+Bindu Sravanthi K.
+Prudhvi K.
+Prabhakar K.
+Solomon K.
+Marc K.
+Lindsay K.
+Denise K.
+Kathleen K.
+Candiece K.
+Alan K.
+Amber K.
+VK - Vaibhav K.
+Kevin K.
+Sarah K.
+Chris K.
+Emily L.
+Jason L.
+Matt L.
+Andrew L.
+Alexander L.
+Gerilyn L.
+Thang L.
+Tiffany L.
+Michael Y. L.
+Hana (.
+Matthew L.
+Patrick L.
+Rob L.
+Naomi L.
+Natalie L.
+Jon J. L.
+Cinde L.
+Patrick M.
+Bryan M.
+Dinesh Kumar M.
+Dean M.
+clint m.
+Regina M.
+Khaled M.
+Krishna M.
+Carolina M.
+Michael M.
+Scott M.
+Robyn M.
+Mitchell M.
+Pari M.
+James M.
+Tamra M.
+Valley M.
+Courtney M.
+Sara M.
+Kristina M.
+Peggy M.
+Nikesh M.
+John M.
+Annemarie M.
+Patrick M.
+Jamie M.
+Marina M.
+Marsha M.
+Josie M.
+Marlee M.
+Mike M.
+Anne M.
+Arati N.
+Amir N.
+Abhinav N.
+Carl N.
+Nikki N.
+Chi N.
+Diem N.
+Jaclyn N.
+Christos N.
+Kaitlyn N.
+suman n.
+Kathleen N.
+Brittney N.
+Claudia N.
+James O.
+Kevin O.
+Kelly O.
+Robert O.
+Lien O.
+Tricia P.
+Regina P.
+Rafael P.
+Leilani P.
+Bhumika P.
+Viral P.
+Vishwala P.
+Dan P.
+Malina P.
+John P.
+Tina P.
+Melissa P.
+Adrienne P.
+Perfecto Q.
+Deepak R.
+Usha R.
+Mazedur R.
+Sammy R.
+Hosamm R.
+Brandon R.
+Kavitha R.
+Shilpa R.
+Deepa R.
+Monica R.
+Jenae R.
+Aimee R.
+Vanessa R.
+John R.
+Mary R.
+Brandon R.
+Justin R.
+Joe R.
+Naveena S.
+Rana S.
+Renu S.
+Isabel S.
+Rob S.
+Bob S.
+Avni S.
+Renis S.
+Jagruti S.
+Naushin S.
+Anu S.
+Mukta S.
+Chris S.
+Tawab S.
+Aman S.
+Prasad S.
+Jennifer S.
+Shikha S.
+Michael S.
+David S.
+June S.
+Sin S.
+Derek S.
+Marvin S.
+Rebecca S.
+Lijntje L. S.
+James S.
+Tiffiny S.
+J. S.
+Erin S.
+Tony T.
+Michael T.
+Thao Diep (.
+Tamera T.
+Nikki T.
+Mark T.
+Aaron T.
+Mai T.
+John T.
+Lindsay T.
+Irene U.
+Vanessa V.
+Derek v.
+Andrew V.
+Jason V.
+Paul V.
+Aditya Kumar V.
+Michael V.
+Barbara V.
+Mike V.
+Saurabh V.
+Basia V.
+John W.
+Steve W.
+Allen W.
+Neil W.
+Barbara W.
+Jimmy W.
+Noel W.
+Shaye W.
+Carrie W.
+Juston W.
+Christina W.
+LeNard W.
+Suzie W.
+Heidi W.
+Belinda Y.
+Jeff Y.
+Dustin Y.
+Lisa Z.
+Jennifer Z.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -122.419644,37.777125
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            San Francisco Bay Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -121.491014,38.579065
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Jennifer J.
+Steven N.
+Lori T.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -121.491014,38.579065
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Sacramento, California Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -71.056699,42.358635
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Loren B.
+Paul C.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -71.056699,42.358635
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Greater Boston Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          15.067445,37.51146
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Costantino P.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            15.067445,37.51146
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Catania Area, Italy
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -104.821814,38.83345
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Eric L.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -104.821814,38.83345
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Colorado Springs, Colorado Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -110.969754,32.221553
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Sandra P.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -110.969754,32.221553
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Tucson, Arizona Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -74.007124,40.71455
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Chris C.
+Elena K.
+Debbie L.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -74.007124,40.71455
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Greater New York City Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -90.199514,38.62774
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Brooke B.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -90.199514,38.62774
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Greater St. Louis Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -86.254044,41.679058
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            &quot;Z&quot; or Zaneta B.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -86.254044,41.679058
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            South Bend, Indiana Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -87.632409,41.88415
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            kalyan c.
+Rishab C.
+Rashadd H.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -87.632409,41.88415
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Greater Chicago Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          151.206955,-33.869629
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Stephen B.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            151.206955,-33.869629
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Sydney Area, Australia
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -98.58,39.83
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Tonja F.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -98.58,39.83
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            United States
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -123.114034,49.26044
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Dana R.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -123.114034,49.26044
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Vancouver, Canada Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -97.043472,32.874939
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Sarah B.
+DILIP R.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -97.043472,32.874939
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Dallas/Fort Worth Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          74.757957,13.34155
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Girish S.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            74.757957,13.34155
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Udipi Area, India
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -93.1987,44.879269
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Tim E.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -93.1987,44.879269
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Greater Minneapolis-St. Paul Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -80.837764,35.22269
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Kimberly B.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -80.837764,35.22269
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Charlotte, North Carolina Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -118.245319,34.05349
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Sana A.
+Jennifer A.
+Jason A. C.
+Nathan G.
+Daniella J.
+Anna L.
+Jason M.
+Seth R.
+Kyle S.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -118.245319,34.05349
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Greater Los Angeles Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          82.71767,21.504394
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Kanthraj R.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            82.71767,21.504394
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            India
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -5.822485,55.00839
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Zeeshanuddin S.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -5.822485,55.00839
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            United Kingdom
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          76.98406,11.01167
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Dinesh k.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            76.98406,11.01167
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Coimbatore Area, India
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -97.742984,30.267605
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Clinton B.
+Joe C.
+Sheridan H.
+Gil O.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -97.742984,30.267605
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Austin, Texas Area
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -0.127144,51.506325
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Khushboo A.
+Jim M.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            -0.127144,51.506325
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            London, United Kingdom
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          72.875877,19.076191
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Binni C.
+Hetal G.
+Pratik M.
+Khimasiya P.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            72.875877,19.076191
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Mumbai Area, India
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          37.90395,-0.043895
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Jalpa O.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            37.90395,-0.043895
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Kenya
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          87.80413,25.28287
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="contacts">
+          <value>
+            Sudhir A.
+Marc D.
+Dinesh Kumar J.
+          </value>
+        </Data>
+        <Data name="coords">
+          <value>
+            87.80413,25.28287
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            Ahmedabad Area, India
+          </value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -122.419644,37.777125
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="coords">
+          <value>
+            -122.419644,37.777125
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            CENTROID
+          </value>
+        </Data>
+      </ExtendedData>
+      <styleUrl>
+        #centroid
+      </styleUrl>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -122.419644,37.777125
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="coords">
+          <value>
+            -122.419644,37.777125
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            CENTROID
+          </value>
+        </Data>
+      </ExtendedData>
+      <styleUrl>
+        #centroid
+      </styleUrl>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>
+          -122.419644,37.777125
+        </coordinates>
+      </Point>
+      <ExtendedData>
+        <Data name="coords">
+          <value>
+            -122.419644,37.777125
+          </value>
+        </Data>
+        <Data name="label">
+          <value>
+            CENTROID
+          </value>
+        </Data>
+      </ExtendedData>
+      <styleUrl>
+        #centroid
+      </styleUrl>
+    </Placemark>
+  </Document>
+</kml>
